@@ -1,6 +1,6 @@
 # herd-wp-new-script
 
-A macOS shell script for creating complete local WordPress sites in Laravel Herd with WP-CLI, DBngin MySQL or MariaDB, HTTPS, local development debugging, Query Monitor, and the Local Mail must-use plugin.
+A macOS shell script for creating complete local WordPress sites in [Laravel Herd] https://herd.laravel.com/ with WP-CLI, DBngin MySQL or MariaDB, HTTPS, local development debugging, Query Monitor, and the [Local Mail] https://github.com/mstonedev/local-mail-wp must-use plugin.
 
 ## What it does
 
@@ -140,6 +140,8 @@ wp-content/mu-plugins/local-mail.php
 WordPress automatically loads PHP files that are directly inside `wp-content/mu-plugins/`. Local Mail therefore loads automatically for every request and does not require activation in the normal WordPress Plugins screen.
 
 There is no `local-mail` subfolder and no `local-mail-loader.php` in this version of the installer.
+
+**Visit [Local Mail] https://github.com/mstonedev/local-mail-wp for documentation on Local Mail.**
 
 ## Default admin credentials
 
