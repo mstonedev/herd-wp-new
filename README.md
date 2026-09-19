@@ -1,4 +1,4 @@
-# herd-wp-new-script
+# herd-wp-new
 
 A macOS shell script for creating complete local WordPress sites in [Laravel Herd](https://herd.laravel.com/) with [WP-CLI](https://wordpress.org/cli/), [DBngin](https://dbngin.com/) MySQL or MariaDB, HTTPS, local development debugging, Query Monitor, and the [Local Mail](https://github.com/mstonedev/local-mail-wp) must-use plugin.
 
